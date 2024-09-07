@@ -1,0 +1,7 @@
+Codingal is an online platform designed to teach kids coding through engaging and interactive courses.
+ It offers a wide range of coding programs tailored to different age groups and skill levels, focusing on fundamental programming concepts and creative problem-solving.
+  With a curriculum aligned with standards like K-12 and built by experts,
+   Codingal ensures that children not only learn to code but also develop critical thinking, 
+   computational skills, and creativity. Through live classes with qualified instructors, 
+   coding challenges, and projects, the platform fosters a fun and enriching e
+   nvironment for young learners to explore the world of technology.
